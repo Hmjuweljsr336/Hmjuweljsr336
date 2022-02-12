@@ -1,6 +1,6 @@
 ![Web Developer](https://pbs.twimg.com/profile_banners/1382263118961676291/1644686931/600x200)
 ## Hi there 👋, I'm Juwel Rana
-#### Web Developer
+### Web Developer
 
 I'm a student and a web developer.
 
